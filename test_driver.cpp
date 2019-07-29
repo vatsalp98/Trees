@@ -33,9 +33,7 @@ int main(int argc, char *argv[]) {
 		return 1;
 	}
 
-	// cout << "Running case " << tcase << endl;
-		
- 
+	//cout << "Running case " << tcase << endl;
 
 
 	BSTree bst;
